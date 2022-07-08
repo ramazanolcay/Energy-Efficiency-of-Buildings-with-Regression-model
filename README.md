@@ -7,7 +7,7 @@ Step 1- there were no column name in data and I added the names ("Relative Compa
                                                                         "Roof Area", "Overall Height","Orientation","Glazing Area",
                                                                         "Glazing Area Distribution", "Heating Load", "Cooling Load")
                                                                         
-Step 2- I have check NaN values and result are in image
+Step 2- I have check NaN values and result is in image
 
 ![image](https://user-images.githubusercontent.com/87130915/178059146-146b9c71-7ebf-4f75-9efb-6f74ae0e93ba.png)
 
